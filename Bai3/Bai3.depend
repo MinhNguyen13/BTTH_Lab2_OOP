@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1773981236 source:c:\users\admin\documents\code\bai3\src\main.cpp
+	<bits/stdc++.h>
+	"SoPhuc.h"
+
+1773980178 c:\users\admin\documents\code\bai3\include\sophuc.h
+
+1773981479 source:c:\users\admin\documents\code\bai3\src\sophuc.cpp
+	"SoPhuc.h"
+	<bits/stdc++.h>
+

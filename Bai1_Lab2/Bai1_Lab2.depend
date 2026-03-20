@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1773978486 source:c:\users\admin\documents\code\bai1_lab2\src\main.cpp
+	<bits/stdc++.h>
+	"NgayThangNam.h"
+
+1773978077 source:c:\users\admin\documents\code\bai1_lab2\src\ngaythangnam.cpp
+	"NgayThangNam.h"
+	<bits/stdc++.h>
+
+1773978544 c:\users\admin\documents\code\bai1_lab2\include\ngaythangnam.h
+
